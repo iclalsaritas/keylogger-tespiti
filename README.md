@@ -6,7 +6,7 @@
 
 ![11](https://github.com/iclalsaritas/keylogger-tespiti/assets/97543719/a53c4922-d5c7-4b46-8be7-2cf428cef4cb)
 
-##### Keylogger kullanımı parola hırsızlığı, kişisel bilgi çalma, casusluk, çocuk takibi ve kontrolü, personel izleme, yedekleme ve hata ayıklama, eğitim amaçları, klavye eylemlerinin kaydedilmesi gibi amaçlarla kullanılabilir.
+##### Ekranın herhangi bir yerine rastgele bir şeyler yazıyorum ya da rastgele tıklıyorum. İşte bu kodda basitçe bir keylogger nasıl çalışır bunu görmüş oluyoruz. Keylogger kullanımı parola hırsızlığı, kişisel bilgi çalma, casusluk, çocuk takibi ve kontrolü, personel izleme, yedekleme ve hata ayıklama, eğitim amaçları, klavye eylemlerinin kaydedilmesi gibi amaçlarla kullanılabilir. En başta da bahsettiğim üzere kişinin amacına göre durumun acımasızlık boyutu farklılık gösterebilir.
 
 
 
