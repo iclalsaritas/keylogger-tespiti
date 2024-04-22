@@ -2,7 +2,7 @@
 
 ##### Keylogger olarak bilinen bir yazılım, klavyenizdeki tuş vuruşlarını izleyen ve kaydeden bir tür izleme yazılımıdır. Bu yazılım, kullanıcıların klavyede ne yazdığını gizlice takip ederek, kullanıcıların etkinliklerini izlemeye ve kaydetmeye olanak tanır. Kullanım amacının ne olduğu tamamen kullanıcının sınırlarına ve neyi hedeflediğine bağlıdır. 
 
-##### Python ile keylogger yazmak ve kodu çalıştırdığımızda klavyedeki tüm tuşlamaların bir log.txt dosyasına kaydedilmesini istersek bu tarz bir kod işimizi görebilir : 
+##### Python ile keylogger yazmayı ve kodu çalıştırdığımızda klavyedeki tüm tuşlamaların bir log.txt dosyasına kaydedilmesini istersek bu tarz bir kod işimizi görebilir : 
 
 ![1](https://github.com/iclalsaritas/keylogger-tespiti/assets/97543719/78784547-ec84-4589-b703-906418f88ddb)
 
