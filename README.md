@@ -18,7 +18,18 @@
 
 
 ##### Ezcümle bu komutu uyguladığında bir şeyler listelenmeye başladıysa bilgisayarında keylogger yüksek ihtimalle var.
-##### 4- Görev yöneticisini aç. Ayrıntılara gir, ayrıntılardan services.exe adındaki arkadaşı bul. Bu arkadaşın Kullanıcı adında SYSTEM dışında bir isim yazıyorsa keylogger ile başının dertte olması muhtemeldir.
+
+
+##### 4- Görev yöneticisini aç. Ayrıntılara gir, ayrıntılardan services.exe adındaki arkadaşı bul.
+
+![5](https://github.com/iclalsaritas/keyloggerr/assets/97543719/9ca72f0a-3c18-40a1-8465-d0b7f070a042)
+
+
+![6](https://github.com/iclalsaritas/keyloggerr/assets/97543719/145ec8c3-2890-4e26-9dad-f809ad61c293)
+
+
+
+##### Bu arkadaşın Kullanıcı adında SYSTEM dışında bir isim yazıyorsa keylogger ile başının dertte olması muhtemeldir.
 
 ##### Peki keylogger ile başım dertte, nasıl kurtulacağım ? Ya antivirüs programından faydalan ya da pc formatla. Muhtemelen sorun ortadan kalkacak, düzelme olmazsa forumda buluşalım. 
 
