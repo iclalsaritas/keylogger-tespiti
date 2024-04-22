@@ -7,8 +7,7 @@
 ![11](https://github.com/iclalsaritas/keylogger-tespiti/assets/97543719/a53c4922-d5c7-4b46-8be7-2cf428cef4cb)
 
 
-
-##### Windows kullanıyorsun ve bilgisayarında keylogger bulunup bulunmadığını merak ediyorsun. Bunu en hızlı ve en temel şekilde öğrenebilmenin yolları var, biraz bundan konuşalım.
+##### Peki son olarak, Windows kullanıyorsun ve bilgisayarında keylogger bulunup bulunmadığını merak ediyorsun. Bunu en hızlı ve en temel şekilde öğrenebilmenin yolları var, biraz bundan konuşalım.
 
 
 ##### 1- Windows pencereni aç, oradan c: 'ye gir. Windows klasörüne tıkla, System 32'yi bul, System 32'nin içinde iki dosya aratacağız şimdi. SystemDll32.log, SystemDll32.exe .
