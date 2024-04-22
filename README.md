@@ -1,3 +1,6 @@
+#### Merhabalar, bu yazım basitçe keylogger tanımı, Python ile keylogger genel mantığının gösterilmesi ve keylogger tespiti hakkında olacak. Keylogger olarak bilinen bir yazılım, klavyenizdeki tuş vuruşlarını izleyen ve kaydeden bir tür izleme yazılımıdır. Bu yazılım, kullanıcıların klavyede ne yazdığını gizlice takip ederek, kullanıcıların etkinliklerini izlemeye ve kaydetmeye olanak tanır. Kullanım amacının ne olduğu tamamen kullanıcının sınırlarına ve neyi hedeflediğine bağlıdır. 
+
+
 ##### Windows kullanıyorsun ve bilgisayarında keylogger bulunup bulunmadığını merak ediyorsun. Bunu en hızlı ve en temel şekilde öğrenebilmenin yolları var, biraz bundan konuşalım.
 
 
