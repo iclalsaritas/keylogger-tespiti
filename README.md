@@ -14,8 +14,8 @@
 
 ![4](https://github.com/iclalsaritas/keyloggerr/assets/97543719/8e0ae490-d8ad-46bd-b494-ac3b7e30f13d)
 
-
 ##### Ezcümle bu komutu uyguladığında bir şeyler listelenmeye başladıysa bilgisayarında keylogger yüksek ihtimalle var.
+
 
 
 ##### 4- Görev yöneticisini aç. Ayrıntılara gir, ayrıntılardan services.exe adındaki arkadaşı bul.
