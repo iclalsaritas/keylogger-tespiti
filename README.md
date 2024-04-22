@@ -6,6 +6,9 @@
 
 ![11](https://github.com/iclalsaritas/keylogger-tespiti/assets/97543719/a53c4922-d5c7-4b46-8be7-2cf428cef4cb)
 
+##### Keylogger kullanımı parola hırsızlığı, kişisel bilgi çalma, casusluk, çocuk takibi ve kontrolü, personel izleme, yedekleme ve hata ayıklama, eğitim amaçları, klavye eylemlerinin kaydedilmesi gibi amaçlarla kullanılabilir.
+
+
 
 ##### Peki son olarak, Windows kullanıyorsun ve bilgisayarında keylogger bulunup bulunmadığını merak ediyorsun. Bunu en hızlı ve en temel şekilde öğrenebilmenin yolları var, biraz bundan konuşalım.
 
