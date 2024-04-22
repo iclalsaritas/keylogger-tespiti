@@ -10,7 +10,14 @@
 
 ##### Bu iki dosyayı arattığında sonuç dönüyorsa nur topu gibi bir keylogger sahibisin. Dll dosyaları, birden fazla program tarafından kullanılabilen ve programların işlevselliğini genişleten işlevleri içerebilir, bu yüzden log ve onun execute versiyonunu arattık. 
 ##### 2- Klavyedeki dört farklı tuştan bahsedeceğim. CTRL+ALT+SHIFT+X tuşları. bu dördünü aynı anda tuşla. Tuşladın ve hiçbir değişiklik olmadı mı? Öyleyse güzel. Ekranda şifre soran bir pencere mi açıldı? Muhtemelen keylogger mağdurusun.
-##### 3- Pencereye gel ve arama kutusuna çalıştır yaz. cmd yazıp enter yap ve terminal açılsın. Terminale netstat -an | ":25" yazıp enter yap. Temel olarak, bilgisayarın ağ bağlantılarını, ağ arayüzlerini, yönlendirme tablolarını ve ağ istatistiklerini görüntülemek için netstat komutunu kullandık. Netstat çıktısını belirli bir formatta göstermek için -an komutundan yararlandık. -a tüm bağlantıları ve bağlantı bekleyen noktaları gösterirken -n sayısal formatta (IP adresleri ve bağlantı noktaları) gösterir. Yani -an, IP adresleri ve bağlantı noktalarının sayısal değerlerini (IP adresleri ve port numaralarını) okunabilir bir formatta sunar. Ezcümle bu komutu uyguladığında bir şeyler listelenmeye başladıysa bilgisayarında keylogger yüksek ihtimalle var.
+##### 3- Pencereye gel ve arama kutusuna çalıştır yaz. cmd yazıp enter yap ve terminal açılsın. Terminale netstat -an | ":25" yazıp enter yap. Temel olarak, bilgisayarın ağ bağlantılarını, ağ arayüzlerini, yönlendirme tablolarını ve ağ istatistiklerini görüntülemek için netstat komutunu kullandık. Netstat çıktısını belirli bir formatta göstermek için -an komutundan yararlandık. -a tüm bağlantıları ve bağlantı bekleyen noktaları gösterirken -n sayısal formatta (IP adresleri ve bağlantı noktaları) gösterir. Yani -an, IP adresleri ve bağlantı noktalarının sayısal değerlerini (IP adresleri ve port numaralarını) okunabilir bir formatta sunar. 
+
+![3](https://github.com/iclalsaritas/keyloggerr/assets/97543719/f9f47ac5-23f4-4c65-9627-01035f8e2d42)
+
+![4](https://github.com/iclalsaritas/keyloggerr/assets/97543719/8e0ae490-d8ad-46bd-b494-ac3b7e30f13d)
+
+
+##### Ezcümle bu komutu uyguladığında bir şeyler listelenmeye başladıysa bilgisayarında keylogger yüksek ihtimalle var.
 ##### 4- Görev yöneticisini aç. Ayrıntılara gir, ayrıntılardan services.exe adındaki arkadaşı bul. Bu arkadaşın Kullanıcı adında SYSTEM dışında bir isim yazıyorsa keylogger ile başının dertte olması muhtemeldir.
 
 ##### Peki keylogger ile başım dertte, nasıl kurtulacağım ? Ya antivirüs programından faydalan ya da pc formatla. Muhtemelen sorun ortadan kalkacak, düzelme olmazsa forumda buluşalım. 
