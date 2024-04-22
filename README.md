@@ -29,6 +29,6 @@
 
 ##### Bu arkadaşın Kullanıcı adında SYSTEM dışında bir isim yazıyorsa keylogger ile başının dertte olması muhtemeldir.
 
-##### // Peki keylogger ile başım dertte, nasıl kurtulacağım ? 
-##### Ya antivirüs programından faydalan ya da pc formatla. Muhtemelen sorun ortadan kalkacak, düzelme olmazsa forumda buluşalım. //
+##### // Peki keylogger ile başım dertte, nasıl kurtulacağım ? //
+##### \\ Ya antivirüs programından faydalan ya da pc formatla. Muhtemelen sorun ortadan kalkacak, düzelme olmazsa forumda buluşalım. \\
 
