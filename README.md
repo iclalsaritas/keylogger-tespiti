@@ -4,10 +4,7 @@
 
 ##### Python ile keylogger yazmayı ve kodu çalıştırdığımızda klavyedeki tüm tuşlamaların bir log.txt dosyasına kaydedilmesini istediğimizde bu tarz bir kod işimizi görebilir : 
 
-![1](https://github.com/iclalsaritas/keylogger-tespiti/assets/97543719/78784547-ec84-4589-b703-906418f88ddb)
-
-![2](https://github.com/iclalsaritas/keylogger-tespiti/assets/97543719/c26e32e2-7d23-423f-95f6-8737d1c09f24)
-
+![11](https://github.com/iclalsaritas/keylogger-tespiti/assets/97543719/a53c4922-d5c7-4b46-8be7-2cf428cef4cb)
 
 
 
